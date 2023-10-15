@@ -4,7 +4,7 @@ import com.example.rqchallenge.client.DummyClient;
 import com.example.rqchallenge.response.EmployeeDto;
 import com.example.rqchallenge.response.EmployeeResponse;
 import com.example.rqchallenge.service.EmployeeServiceImpl;
-import exception.NoEmployeeFoundException;
+import com.example.rqchallenge.exception.NoEmployeeFoundException;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

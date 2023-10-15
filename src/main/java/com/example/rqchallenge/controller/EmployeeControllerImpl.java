@@ -3,7 +3,7 @@ package com.example.rqchallenge.controller;
 import com.example.rqchallenge.response.EmployeeDto;
 import com.example.rqchallenge.response.EmployeeResponse;
 import com.example.rqchallenge.service.EmployeeService;
-import exception.NoEmployeeFoundException;
+import com.example.rqchallenge.exception.NoEmployeeFoundException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
